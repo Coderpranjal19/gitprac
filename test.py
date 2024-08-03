@@ -1,5 +1,5 @@
 print ("wassup buddy ??")
-x = 2
+x = 3
 y = 3
 print(x+y)
 print("Update 3")
